@@ -93,7 +93,7 @@ npm install
 npm start
 ```
 
-* The frontend runs at: `http://localhost:3000`
+* The frontend runs at: `http://localhost:5173`
 * Features:
 
   * Hero section with featured products
@@ -118,18 +118,22 @@ npm start
 ## 🖼 Screenshots
 
 **Home Page / Hero Section:**
-![Home Page](screenshots/home.png)
+<img width="1887" height="849" alt="image" src="https://github.com/user-attachments/assets/21ecb6ae-e3e7-4de6-b118-c5cecbd61b4c" />
+<img width="1898" height="770" alt="image" src="https://github.com/user-attachments/assets/83ba7dcb-4432-40e6-b7c1-e21dcc1308b6" />
+
+
 
 **Products Grid:**
-![Products](screenshots/products.png)
+<img width="1898" height="875" alt="image" src="https://github.com/user-attachments/assets/1a097457-a8b7-46a0-8f75-9e800f8f9715" />
 
 **Cart Page:**
-![Cart](screenshots/cart.png)
+<img width="1916" height="724" alt="image" src="https://github.com/user-attachments/assets/e4dfcc06-ebac-4baa-9b86-d4b5096b4b24" />
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/68b1eff9-7360-4cb2-89ed-9823f8462f3a" />
+
 
 **Checkout Receipt Modal:**
-![Receipt](screenshots/receipt.png)
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/3c749f7b-6c99-4395-834d-26fd95bf4198" />
 
-*(Replace the above screenshots with actual images from your app.)*
 
 ---
 
