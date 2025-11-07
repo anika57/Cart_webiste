@@ -157,8 +157,8 @@ npm start
 
 ## 🎥 Demo Video
 
-[Watch Demo Video](insert-video-link)
-
+[[Watch Demo Video](insert-video-link)
+](https://www.loom.com/share/39628d1102c74ccd86d1c427ee3f126a)
 ---
 
 ## 💻 License
